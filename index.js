@@ -1,0 +1,1 @@
+document.getElementById("echo").innerHTML = ("Hello Word");
